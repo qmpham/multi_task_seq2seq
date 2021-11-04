@@ -10,7 +10,7 @@ multi_task_seq2seq is a framework for multi-domain, multilingual neural machine 
   + [Domain Control for Neural Machine Translation. (Catherine Kobus, Josep Crego, Jean Senellart)]
 * **Differentiable Data Selection**
   + [Balancing Training for Multilingual Neural Machine Translation (Xinyi Wang, Yulia Tsvetkov, Graham Neubig)]
-* **Sparse word embedding **
+* **Sparse word embedding**
   + [Generic and Specialized Word Embeddings for Multi-Domain Machine Translation (Minh Quang Pham, Josep-Maria Crego, François Yvon, Jean Senellart)]
 # Requirements and Installation
 * TensorFlow == 2.3
