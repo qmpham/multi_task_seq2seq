@@ -1,4 +1,4 @@
-multi_task_seq2seq is a framework for multi-domain, multilingual neural machine translation allowing to reimplement various sequence modeling papers.
+multi_task_seq2seq is a framework for multi-domain, multilingual neural machine translation allowing to reimplement various MT papers.
 
 <details><summary>List of implemented papers</summary><p>
 
